@@ -1,0 +1,16 @@
+{
+  "name": "royale-api",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "exceljs": "^4.3.0",
+    "luxon": "^2.4.0"
+  }
+}
